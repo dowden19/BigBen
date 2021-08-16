@@ -40,4 +40,4 @@ async def clock():
     voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     await voice.disconnect()
 
-client.run("ODYyNzgyODQ3NzcyMTMxMzI4.YOdXJA.QrnX2iEQEtFSl4K57SDkM1tOCD8")
+client.run(##TOKEN##)
